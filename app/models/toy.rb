@@ -1,2 +1,5 @@
 class Toy < ApplicationRecord
+
+
+
 end
